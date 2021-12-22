@@ -1,0 +1,25 @@
+ 
+/* html,body{
+height: 100%;
+font-family: 'Numans', sans-serif;
+ background: url(IMAGES/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}  */
+
+.main2{
+	display: absolute;
+} 
+/* #myCarousel{
+	float:left;
+} */
+/* div.sum {
+	background: url(IMAGES/background.jpg) no-repeat center center fixed;
+} */
+/* div.hihi {
+	height: 500;
+	width: 500;
+	background-image: url('IMAGES/background.jpg');
+} */
